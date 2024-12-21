@@ -16,3 +16,6 @@ Frontend Development: Advanced drag-and-drop page building with pixel-perfect de
 Plugins and Enhancements: Leveraged tools like All in One SEO, Wordfence Security, and Ninja Forms to enhance functionality and user interaction.
 Optimization: Integrated XML Sitemap Generator to improve site indexation and search engine rankings.
 Visit the live site here: abdelrahmanzahra.kesug.com.
+
+
+ps i cannot post the htdocs here for safety reasons, if you would lie to leanr more feel free to contact me.
